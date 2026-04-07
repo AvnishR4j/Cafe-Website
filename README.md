@@ -1,4 +1,4 @@
-# <img src="https://em-content.zobj.net/source/apple/354/hot-beverage_2615.png" width="32"/> Café Demo Website
+<img width="862" height="110" alt="image" src="https://github.com/user-attachments/assets/5e85cf19-0956-46f5-9e1f-f0eb26c5835e" /># <img src="https://em-content.zobj.net/source/apple/354/hot-beverage_2615.png" width="32"/> Café Demo Website
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 **A modern, elegant demo website for a café — built to impress.**
 
-[🌐 Live Demo](#https://avnishr4j.github.io/cafe/) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🌐 Live Demo](https://avnishr4j.github.io/cafe/) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
