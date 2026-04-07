@@ -17,8 +17,6 @@
 
 ## 📸 Preview
 
-> _Add a screenshot of your project here_
-> `![Preview](./images/preview.png)`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89f0fa07-8a9b-40aa-a350-cc9a3c4cc9f7" />
 
 ---
@@ -48,8 +46,6 @@ Whether you're a café owner looking for inspiration or a developer exploring fr
 - **HTML5** — Semantic markup
 - **CSS3** — Custom styling & animations
 - **JavaScript** — Interactive elements
-
-> _Add any extra libraries or frameworks you used here_
 
 ---
 
