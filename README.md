@@ -9,7 +9,7 @@
 
 **A modern, elegant demo website for a café — built to impress.**
 
-[🌐 Live Demo](#) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🌐 Live Demo](#https://avnishr4j.github.io/cafe/) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
